@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Adam Averay</string>
+	<key>Builder Version</key>
+	<string>10600.8.9</string>
+	<key>CFBundleDisplayName</key>
+	<string>Searchlight</string>
+	<key>CFBundleIdentifier</key>
+	<string>au.com.adamaveray.searchlight</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict/>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>Start</key>
+			<array>
+				<string>in-page.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Focus on a site's search with a keystroke</string>
+	<key>DeveloperIdentifier</key>
+	<string>BDP75UGMNW</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Website</key>
+	<string>https://github.com/adamaveray/searchlight</string>
+</dict>
+</plist>
